@@ -1,3 +1,9 @@
+'''
+This code implements a simple Tic-Tac-Toe game using Python's Tkinter library. 
+It allows two players to take turns by clicking on buttons representing the game grid. The code checks for a winner or 
+a draw after each move and displays the result in a message box. The game is designed to players be able to enter their names before starting the game.
+'''
+
 from tkinter import *
 from tkinter import simpledialog
 from tkinter import messagebox
